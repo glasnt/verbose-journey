@@ -17,6 +17,6 @@ jobs:
             ls 
 
       - run: 
-          name: run another basic command
+          name: run another basic command 🔧
           command: |
             echo 'Hello, the time is $(date)'
